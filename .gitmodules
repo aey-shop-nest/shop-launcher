@@ -4,3 +4,6 @@
 [submodule "products-api"]
 	path = products-api
 	url = https://github.com/aey-shop-nest/aey-nest-ms-products-api.git
+[submodule "orders-api"]
+	path = orders-api
+	url = https://github.com/aey-shop-nest/aey-nest-ms-oders-api.git
