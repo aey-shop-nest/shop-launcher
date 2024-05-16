@@ -1,3 +1,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = https://github.com/aey-shop-nest/client-gateway.git
+[submodule "products-api"]
+	path = products-api
+	url = https://github.com/aey-shop-nest/aey-nest-ms-products-api.git
